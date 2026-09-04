@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://chowbotics.com/', status: 302, note: 'declared website redirects to https://merchants.doordash.com/en-us?utm_campaign=chowbotics — a different registrable domain (chowbotics.com -> doordash.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/chowbotics.png
 name: chowbotics
 description: Chowbotics was a food-robotics company known for "Sally," a fresh-food and salad
